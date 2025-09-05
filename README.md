@@ -2,7 +2,7 @@
 currently only used on linux (Linux Mint Cinnamon Edition)
 
 # prerequisites
-alacritty, fastfetch, git, rofi, tmux, zsh
+alacritty, fastfetch, flameshot, git, rofi, tmux, zsh
 
 # install
 - install all packages
