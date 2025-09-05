@@ -1,0 +1,10 @@
+alias ls='lsd'
+alias lsla='lsd -la'
+
+alias cs='cd; lsd'
+
+alias fd='fdfind'
+
+alias cat='batcat'
+
+alias myfetch='source ~/.config/fastfetch/myfetch.sh'

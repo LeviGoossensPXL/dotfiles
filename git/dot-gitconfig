@@ -1,0 +1,9 @@
+[user]
+	email = levi.goossens107@gmail.com
+	name = Levi Goossens
+[init]
+	defaultBranch = main
+[fetch]
+	prune = true
+[color]
+	ui = true
