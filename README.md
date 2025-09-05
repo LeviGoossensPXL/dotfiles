@@ -8,7 +8,7 @@ alacritty, fastfetch, flameshot, git, rofi, tmux, zsh
 - install all packages
 ```bash
 cd dotfiles \
-&& stow --dotfiles *
+&& stow --dotfiles */
 ```
 - install some packages
 ```bash
